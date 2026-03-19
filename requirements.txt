@@ -1,0 +1,6 @@
+numpy
+soundcard
+pystray
+Pillow
+keyboard
+PySide6

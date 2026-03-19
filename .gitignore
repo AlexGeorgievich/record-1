@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Temporary files
+tmp/
+*.tmp
+*.log
+
+# Local app state
+overlay_pos.json
+
+# Recorded audio
+system_*.wav
+system_*.mp3
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
