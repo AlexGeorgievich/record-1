@@ -64,3 +64,5 @@ venv\Scripts\python.exe rec.py
 ```powershell
 .\build.ps1
 ```
+## Исполняемый файл - rec.exe
+
